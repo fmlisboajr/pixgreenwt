@@ -147,10 +147,10 @@ const Login = () => {
 					<Typography variant="body2" color="textSecondary" align="center">
 							
 							<br></br>
-							AutoBot
+							ultraWhats - Sistemas
 							<br></br>
 							
-							© 2004 - {new Date().getFullYear()}
+							© 2011 - {new Date().getFullYear()}
 						
 						{"."}
 					</Typography>
