@@ -147,10 +147,10 @@ const Login = () => {
 					<Typography variant="body2" color="textSecondary" align="center">
 							
 							<br></br>
-							ultraWhats - Sistemas
+							PixGreeN - Smart Solutions
 							<br></br>
 							
-							© 2011 - {new Date().getFullYear()}
+							© 2023 - {new Date().getFullYear()}
 						
 						{"."}
 					</Typography>
